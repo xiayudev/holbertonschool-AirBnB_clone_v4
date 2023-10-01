@@ -159,8 +159,8 @@ No known bugs at this time.
 + Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 + David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 + Josue Cerron - [Github](https://github.com/xiayudev) / [Twitter](https://twitter.com/J7Jeo)
-+ Guillermo Alvarado - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
-+ Oscar Salinas - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
++ Guillermo Alvarado - [Github](https://github.com/Sonnydread)
++ Oscar Salinas - [Github](https://github.com/Oscarsa3)
 
 Second part of Airbnb: Joann Vuong
 ## License
